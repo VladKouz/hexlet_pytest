@@ -1,4 +1,4 @@
-from capitalize import capitalize
+from src.capitalize import capitalize
 
 '''Тесты для функции capitalize (первая версия)
 if capitalize("hello") != "Hello":
